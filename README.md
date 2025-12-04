@@ -6,6 +6,6 @@ Kelas: TI24A
 Repository untuk belajar manajemen konfigurasi, khususnya version control dengan Git dan GitHub.
 
 ## Progress Belajar
-- [ ] Setup Git lokal
-- [ ] Buat repository GitHub
+- [x] Setup Git lokal
+- [x] Buat repository GitHub
 - [ ] Commit pertama
